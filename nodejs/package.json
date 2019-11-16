@@ -1,0 +1,26 @@
+{
+  "name": "recos",
+  "version": "1.0.0",
+  "description": "as",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanZhaoIc/Rec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanZhaoIc/Rec/issues"
+  },
+  "homepage": "https://github.com/RyanZhaoIc/Rec#readme",
+  "dependencies": {
+    "body-parser": "^0.1.0",
+    "events": "^3.0.0",
+    "express": "^4.0.0",
+    "multer": "^1.4.2",
+    "mongoose": "^5.7.9"
+  }
+}

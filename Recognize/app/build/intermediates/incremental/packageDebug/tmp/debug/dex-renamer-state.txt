@@ -1,0 +1,7 @@
+#Sat Nov 16 19:47:53 CST 2019
+base.0=G\:\\Recognize\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=G\:\\Recognize\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

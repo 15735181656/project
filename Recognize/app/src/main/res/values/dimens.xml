@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin15">15sp</dimen>
+    <dimen name="textsize20">20sp</dimen>
+    <dimen name="line_1">1dp</dimen>
+</resources>

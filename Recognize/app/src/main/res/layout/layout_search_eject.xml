@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".UploadImageActivity"
+    android:paddingTop="20dp"
+    android:background="@drawable/shape_search_dialog">
+    <TextView
+        android:id="@+id/searchImageText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:text="上传图片中，请等待..."></TextView>
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/searchImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"></de.hdodenhof.circleimageview.CircleImageView>
+</LinearLayout>
